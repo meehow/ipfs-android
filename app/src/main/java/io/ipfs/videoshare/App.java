@@ -39,8 +39,6 @@ public class App {
             "\t\"https://permaweb.io/ipfs/:hash\",\n" +
             "\t\"https://ipfs.stibarc.com/ipfs/:hash\",\n" +
             "\t\"https://ipfs.best-practice.se/ipfs/:hash\",\n" +
-            "\t\"https://:hash.ipfs.2read.net\",\n" +
-            "\t\"https://ipfs.2read.net/ipfs/:hash\",\n" +
             "\t\"https://storjipfs-gateway.com/ipfs/:hash\",\n" +
             "\t\"https://ipfs.runfission.com/ipfs/:hash\",\n" +
             "\t\"https://trusti.id/ipfs/:hash\"\n" +
